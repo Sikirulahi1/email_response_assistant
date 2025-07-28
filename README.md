@@ -1,1 +1,1 @@
-# Email Respondant assistant
+# Email Response assistant
